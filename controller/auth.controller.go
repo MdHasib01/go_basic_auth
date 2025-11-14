@@ -4,9 +4,10 @@ import (
 	"encoding/json"
 	"log"
 	"net/http"
-	"userStory/dao"
-	"userStory/model"
-	"userStory/utils"
+
+	"github.com/MdHasib01/go_basic_auth/dao"
+	"github.com/MdHasib01/go_basic_auth/model"
+	"github.com/MdHasib01/go_basic_auth/utils"
 )
 
 // Create user

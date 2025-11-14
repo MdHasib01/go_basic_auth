@@ -2,7 +2,8 @@ package router
 
 import (
 	"net/http"
-	"userStory/controller"
+
+	"github.com/MdHasib01/go_basic_auth/controller"
 )
 
 func SetupRouter() http.Handler {

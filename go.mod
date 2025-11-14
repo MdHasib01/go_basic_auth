@@ -1,4 +1,4 @@
-module userStory
+module github.com/MdHasib01/go_basic_auth
 
 go 1.24.6
 

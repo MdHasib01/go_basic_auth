@@ -3,8 +3,9 @@ package main
 import (
 	"log"
 	"net/http"
-	"userStory/dao"
-	"userStory/router"
+
+	"github.com/MdHasib01/go_basic_auth/dao"
+	"github.com/MdHasib01/go_basic_auth/router"
 )
 
 func main() {

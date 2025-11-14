@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"net/http"
 	"strconv"
-	"userStory/model"
+
+	"github.com/MdHasib01/go_basic_auth/model"
 )
 
 var users = []model.User{

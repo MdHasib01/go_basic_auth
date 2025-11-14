@@ -2,7 +2,8 @@ package dao
 
 import (
 	"database/sql"
-	"userStory/model"
+
+	"github.com/MdHasib01/go_basic_auth/model"
 )
 
 // Create user
